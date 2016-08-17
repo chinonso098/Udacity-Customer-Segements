@@ -18,7 +18,7 @@ Abreu, N. (2011). Analise do perfil do cliente Recheio e desenvolvimento de um s
 
 #Attributes
 
-*Fresh: annual spending (m.u.) on fresh products (Continuous)*
+*-Fresh: annual spending (m.u.) on fresh products (Continuous)*
 *Milk: annual spending (m.u.) on milk products (Continuous)*
 *Grocery: annual spending (m.u.)on grocery products (Continuous)*
 *Frozen: annual spending (m.u.)on frozen products (Continuous)*
