@@ -1,6 +1,6 @@
 Creating Customer Segments
 
-Unsupervised Learning Project
+This application utilizes unsupervised machine learning to cluster customers with similar features. This enables the wholesaler to know how best to serve customers. 
 
 #Template code
 
